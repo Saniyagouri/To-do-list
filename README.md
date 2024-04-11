@@ -55,7 +55,4 @@
     
     This command will create an optimized production build of your application in the `build` directory.
 
-    
-All file will be saved as .tsx extension
-
 (**`TodoItem`**, **`Filter`**, **`AddTodoForm`)**
